@@ -49,7 +49,7 @@ I help other developers and server owners fix their tech headaches.
 ---
 
 ## 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dark&hide_border=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=baelistick&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
@@ -58,3 +58,4 @@ I help other developers and server owners fix their tech headaches.
 * **Fiverr:** [baelcode](https://www.fiverr.com/baelcode)
 * **Email:** [Rafael Robles](colinasrobles@hotmail.com)
 * **Discord:** [Baelistick](https://discord.gg/SfNU89F7)
+* **LinkedIN:** [Baelistick](https://www.linkedin.com/in/baelistick/)
