@@ -48,11 +48,6 @@ I help other developers and server owners fix their tech headaches.
 
 ---
 
-## 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=baelistick&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ### 📫 Contact
 * **Itch.io:** [baelistick.itch.io](https://baelistick.itch.io)
 * **Fiverr:** [baelcode](https://www.fiverr.com/baelcode)
