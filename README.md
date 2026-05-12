@@ -9,7 +9,6 @@ I am a Software Engineer and Indie Developer focused on creating immersive syste
 ![Godot](https://img.shields.io/badge/Godot_4-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-Success?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft_Server-Admin-green?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ---
 
@@ -37,10 +36,6 @@ A complex math-based tuning system where players must isolate audio frequencies.
 ## 💼 Services & Freelance
 
 I help other developers and server owners fix their tech headaches.
-
-* 🟢 **[Minecraft Server Tech & Optimization](https://www.fiverr.com/baelcode/configure-your-professional-minecraft-server-with-spigot-or-paper)**
-    * *Professional setup, plugin configuration, and lag reduction for high-performance servers.*
-    * *Experience with BungeeCord, Paper, and Velocity.*
 
 * 🤖 **[Godot 4 Scripting & Bug Fixing](https://www.fiverr.com/baelcode/script-advanced-mechanics-and-fix-bugs-in-godot-4)**
     * *Mechanics implementation (Inventory, AI, Systems).*
