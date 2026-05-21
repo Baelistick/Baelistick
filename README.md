@@ -1,5 +1,5 @@
 # Hi there, I'm Bael 👋
-### Game Developer | Godot Specialist | Server Technician
+### Game Developer | Godot Specialist 
 
 I am a Software Engineer and Indie Developer focused on creating immersive systems and optimizing game performance. I turn complex logic into playable experiences.
 
