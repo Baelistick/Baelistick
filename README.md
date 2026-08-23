@@ -37,4 +37,4 @@ I build scalable web platforms and complex interactive systems. My focus is on m
 *   **Core Mechanics:** Fake OS simulation, file management, and chat logs.
 
 ---
-📫 **Comunicaciones Abiertas:** [Enlace a tu LinkedIn] | [Enlace a Itch.io]
+📫 **Comunicaciones Abiertas:** 
