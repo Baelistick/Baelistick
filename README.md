@@ -1,51 +1,40 @@
-# Hi there, I'm Bael 👋
-### Game Developer | Godot Specialist 
+# Hi there, I'm Rafael (Baelistick) 👋
 
-I am a Software Engineer and Indie Developer focused on creating immersive systems and optimizing game performance. I turn complex logic into playable experiences.
+**Full-Stack Software Engineer & Systems Architect**
 
----
+I build scalable web platforms and complex interactive systems. My focus is on merging robust backends with high-performance frontends, whether for PropTech dashboards or procedural generation engines.
 
-## 🛠️ Tech Stack
-![Godot](https://img.shields.io/badge/Godot_4-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-Success?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white)
+### 🛠️ Tech Stack & Arsenal
+*   **Web & Backend:** Next.js, React, Tailwind CSS, Supabase (PostgreSQL).
+*   **Software & Interactive:** C# .NET, Godot Engine 4, GDScript.
+*   **Tools & Design:** Blender 3D, Cursor IDE, Git, Obsidian.
 
----
+### 🚀 Featured Deployments
 
-## 🚀 Featured Projects
+**[Alquilarte] - PropTech Web Platform**
+*Architecture designed to optimize landlord-tenant trust and leasing logistics.*
+*   **Tech:** Next.js, Supabase.
+*   **Core Mechanics:** Interactive maps, role-based dashboards, and real-time notification systems.
 
-### 🌊 [Bit-Sea Stalker (Global Game Jam 2026)](https://baelistick.itch.io/bit-sea-stalkerv1)
-> **Genre:** Desktop Simulator / OS Horror
-> **Status:** Playable Web Prototype
+**[De Pico y Pala para Pincel] - Full-Stack Multiplayer Game**
+*Developed under pressure for the Juntos Global Game Jam.*
+*   **Tech:** Godot 4, C#, Supabase.
+*   **Core Mechanics:** Grid-based logic, real-time database syncing, and multi-platform compilation.
 
-A meta-horror game played entirely within a fictional computer interface.
-* **Core Mechanic:** Diegetic UI simulation (Fake OS, File Management, Chat Logs).
-* **Tech:** Optimized for WebGL in Godot 4 Compatibility Mode.
-* **Role:** Solo Developer (Code, Art, Design).
+**[Procedural & Intelligent Terrain] - R&D Experiment**
+*Adaptive terrain generator reacting to environmental variables.*
+*   **Tech:** Godot, Custom Shaders.
+*   **Core Mechanics:** UV/Texture mapping and dynamic mesh generation inspired by Physarum polycephalum.
 
-### 📻 Radio Signal Interceptor (Prototype)
-> **Genre:** Puzzle / Tactile Simulation
+**[Interactive NPC System] - AI Architecture**
+*Stress-testing memory saturation and autonomous entity behavior.*
+*   **Tech:** Godot Engine, C#.
+*   **Core Mechanics:** Needs-based AI logic, pathfinding interactions with energy/road grids without action collision.
 
-A complex math-based tuning system where players must isolate audio frequencies.
-* **Code Highlight:** Uses `lerp` and `wrapf` for realistic dial physics.
-* **Audio System:** Dynamic pitch modulation based on signal type (Ally/Enemy).
-* **Visuals:** Custom 3D meshes with diegetic text displays.
-
----
-
-## 💼 Services & Freelance
-
-I help other developers and server owners fix their tech headaches.
-
-* 🤖 **[Godot 4 Scripting & Bug Fixing](https://www.fiverr.com/baelcode/script-advanced-mechanics-and-fix-bugs-in-godot-4)**
-    * *Mechanics implementation (Inventory, AI, Systems).*
-    * *Code refactoring and optimization for GDScript.*
+**[Bit-Sea Stalker] - Meta-Horror Prototype**
+*Global Game Jam entry focused on diegetic UI.*
+*   **Tech:** Godot 4 (WebGL Optimized).
+*   **Core Mechanics:** Fake OS simulation, file management, and chat logs.
 
 ---
-
-### 📫 Contact
-* **Itch.io:** [baelistick.itch.io](https://baelistick.itch.io)
-* **Fiverr:** [baelcode](https://www.fiverr.com/baelcode)
-* **Email:** [Rafael Robles](colinasrobles@hotmail.com)
-* **Discord:** [Baelistick](https://discord.gg/SfNU89F7)
-* **LinkedIN:** [Baelistick](https://www.linkedin.com/in/baelistick/)
+📫 **Comunicaciones Abiertas:** [Enlace a tu LinkedIn] | [Enlace a Itch.io]
