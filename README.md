@@ -5,8 +5,6 @@
 </svg>
 
 <div align="center">
-  
-![Baelistick Labs Research Log][ENLACE_DE_TU_IMAGEN_SVG_AQUI]
 
 [🇬🇧 English](#-english) | [🇪🇸 Español](#-español)
 
