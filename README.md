@@ -5,9 +5,7 @@
 
 
 <div align="center">
-
 [🇬🇧 English](#-english) | [🇪🇸 Español](#-español)
-
 </div>
 
 ---
