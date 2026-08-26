@@ -6,13 +6,13 @@
 
 <div align="center">
   
-<a href="#-english">🇬🇧 English</a> | <a href="#-español">🇪🇸 Español</a>
+<a href="#-english"> English</a> | <a href="#-español"> Español</a>
 
 </div>
 
 ---
 
-## 🇬🇧 English
+## English
 
 I build scalable web platforms and complex interactive systems. My focus is on merging robust backends with high-performance frontends, whether for PropTech dashboards or procedural generation engines.
 
@@ -29,7 +29,7 @@ I build scalable web platforms and complex interactive systems. My focus is on m
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 Desarrollo plataformas web escalables y sistemas interactivos complejos. Mi enfoque está en fusionar backends robustos con frontends de alto rendimiento, ya sea para paneles de control PropTech o motores de generación procedural.
 
